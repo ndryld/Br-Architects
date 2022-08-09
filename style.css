@@ -54,3 +54,72 @@ header{
     background-color: darkgrey;
     color: white;
 }
+.bild{
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;
+}
+#projects{
+
+    width: 1500px;
+    height: 800px;
+    margin: auto;
+    margin-top: 32px;
+}
+
+.bild_form{
+    background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;
+
+}
+.name{
+    width: 148.16px;
+    height: 38.5px;
+    margin: 0px;
+}
+
+#bild_form2{
+    background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;
+
+}
+
+.bild_form3{
+    background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;
+
+}
+.bild_form4{background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;}
+.bild_form5{background-image: url(https://www.w3schools.com/w3images/house3.jpg);
+
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;
+
+}
+.bild_form6{background-image: url(https://www.w3schools.com/w3images/house4.jpg);
+
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;}
+.bild_form7{background-image: url(https://www.w3schools.com/w3images/house2.jpg);
+
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;}
+.bild_form8{background-image: url(https://www.w3schools.com/w3images/house5.jpg);
+
+    width: 308.98.09px;
+    height: 205.78px;
+    margin:  10px;}
+
